@@ -19,7 +19,7 @@ func main() {
 		fmt.Println(romanToInt(s))
 
 	} else {
-		fmt.Println("Invalid input")
+		fmt.Println("Invalid input, too long")
 
 	}
 
